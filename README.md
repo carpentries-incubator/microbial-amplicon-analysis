@@ -4,7 +4,7 @@
 
 This module is to teach the fundamentals of microbial amplicon analysis. This analysis usually takes the form of 16S rRNA for bacterial and ITS (Internal Transcribed Spacer) DNA for fungi. Some convenient links:
 * The [compiled version](https://carpentries-incubator.github.io/microbial-amplicon-analysis/) of this lesson module.
-* A (separate lesson)[(https://carpentries-incubator.github.io/metagenomics/)] on metagenomic analysis is also under development.
+* A [separate lesson](https://carpentries-incubator.github.io/metagenomics/) on metagenomic analysis is also under development.
 
 
 ## Contributing
@@ -16,7 +16,7 @@ We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTR
 the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
-Please see the current list of [issues][https://github.com/carpentries-incubator/microbial-amplicon-analysis/issues] for ideas for contributing to this
+Please see the current list of [issues](https://github.com/carpentries-incubator/microbial-amplicon-analysis/issues) for ideas for contributing to this
 repository. For making your contribution, we use the GitHub flow, which is
 nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
 by Scott Chacon.
