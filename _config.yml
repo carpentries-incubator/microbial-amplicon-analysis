@@ -30,7 +30,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "jason.wallace@uga.edu" 
+email: "jason.wallace@uga.edu"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"
@@ -102,3 +102,14 @@ highlighter: rouge
 
 # Remote theme
 remote_theme: carpentries/carpentries-theme
+
+# Order of episodes; specifying because things might shift around, so don't want to assign numbers yet
+episode_order:
+    - demultiplexing
+    - sequence-quality-control
+    - count-microbes-qiime2
+    - count-microbes-dada2
+    - count-microbes-mothur
+    - alpha-diversity
+    - beta-diversity
+    - differential-abundance
